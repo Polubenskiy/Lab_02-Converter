@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab 02 - Converter Polubenskiy</string>
+
+    <string name="from">From</string>
+    <string name="to">to</string>
+
+    <string name="convert">Convert</string>
+
+    <string name="message_error">text fail</string>
+    <string name="message_error_overflow">OverFlow Exception</string>
+
+</resources>
+
+
+
+
+
